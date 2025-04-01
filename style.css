@@ -10,6 +10,7 @@
     height: 159px;
     background-color: rgb(101, 174, 174);
     display: grid;
+    grid-template-columns: 90px 90px;
 
 }
 
