@@ -1,20 +1,21 @@
-.cabecalho{
-width: 360px;
-height: 81px;
-background-color: aqua;
+.cabecalho {
+    width: 360px;
+    height: 81px;
+    background-color: aqua;
 
 }
-.primeira_secao{
+
+.primeira_secao {
     width: 360px;
     height: 159px;
     background-color: rgb(101, 174, 174);
     display: grid;
-    
-    }
 
-    .retangulo{
-        width: 68px;
-        height: 123px;
-        background-color: rgb(153, 101, 174);
-        
-        }
+}
+
+.retangulo {
+    width: 68px;
+    height: 123px;
+    background-color: rgb(153, 101, 174);
+
+}
