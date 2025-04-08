@@ -12,8 +12,6 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-   
-
 }
 
 .retangulo {
@@ -21,4 +19,15 @@
     height: 123px;
     background-color: rgb(153, 101, 174);
     
+}
+.segunda_secao{
+    width: 360px;
+    height: 248px;
+    background-color: rgb(101, 174, 128);
+}
+
+.terceira_secao{
+    width: 360px;
+    height: 231px;
+    background-color: rgb(107, 163, 226);
 }
