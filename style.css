@@ -1,3 +1,10 @@
+body{
+
+    width: 360px;
+    height: 231px;
+    background-color: rgb(0, 0, 0);
+}
+
 .cabecalho {
     width: 360px;
     height: 81px;
